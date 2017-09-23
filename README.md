@@ -3,7 +3,7 @@
 利用React框架实现
 项目预览
 -------
-- [预览地址](https://grandpaan.github.io/Grandpaan_resume/)
+- [预览地址](https://grandpaan.github.io/Grandpaan_resume/build/index)
 
 
 如何开始？
